@@ -1,0 +1,145 @@
+2019-10-03 00:22:10,846 INFO com.macrosoftas.archijee.DemoApplicationTests [main] Starting DemoApplicationTests on DESKTOP-OR1MPIC with PID 15352 (started by User in C:\MACROSOFT\formationprepaonly\FormationMETISecurite\SpringBOOTTPs\archijavajeespringboot-OK)
+2019-10-03 00:22:10,897 DEBUG com.macrosoftas.archijee.DemoApplicationTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 00:22:10,932 INFO com.macrosoftas.archijee.DemoApplicationTests [main] The following profiles are active: dev
+2019-10-03 00:22:35,714 INFO com.macrosoftas.archijee.DemoApplicationTests [main] Started DemoApplicationTests in 26.35 seconds (JVM running for 30.235)
+2019-10-03 00:22:35,721 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 00:22:36,828 INFO com.macrosoftas.archijee.ExampleRepositoryTests [main] Starting ExampleRepositoryTests on DESKTOP-OR1MPIC with PID 15352 (started by User in C:\MACROSOFT\formationprepaonly\FormationMETISecurite\SpringBOOTTPs\archijavajeespringboot-OK)
+2019-10-03 00:22:36,828 DEBUG com.macrosoftas.archijee.ExampleRepositoryTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 00:22:36,830 INFO com.macrosoftas.archijee.ExampleRepositoryTests [main] The following profiles are active: dev
+2019-10-03 00:22:38,099 INFO com.macrosoftas.archijee.ExampleRepositoryTests [main] Started ExampleRepositoryTests in 1.38 seconds (JVM running for 32.62)
+2019-10-03 00:22:38,101 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 00:22:39,048 INFO com.macrosoftas.archijee.MyControllerTests [main] Starting MyControllerTests on DESKTOP-OR1MPIC with PID 15352 (started by User in C:\MACROSOFT\formationprepaonly\FormationMETISecurite\SpringBOOTTPs\archijavajeespringboot-OK)
+2019-10-03 00:22:39,054 DEBUG com.macrosoftas.archijee.MyControllerTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 00:22:39,054 INFO com.macrosoftas.archijee.MyControllerTests [main] The following profiles are active: dev
+2019-10-03 00:22:43,831 INFO com.macrosoftas.archijee.MyControllerTests [main] Started MyControllerTests in 4.87 seconds (JVM running for 38.353)
+2019-10-03 00:22:43,836 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 00:23:34,636 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Starting ArchiJEEApplication on DESKTOP-OR1MPIC with PID 14040 (C:\MACROSOFT\formationprepaonly\FormationMETISecurite\SpringBOOTTPs\archijavajeespringboot-OK\target\classes started by User in C:\MACROSOFT\formationprepaonly\FormationMETISecurite\SpringBOOTTPs\archijavajeespringboot-OK)
+2019-10-03 00:23:34,645 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 00:23:34,650 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] The following profiles are active: dev
+2019-10-03 00:23:50,151 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Started ArchiJEEApplication in 16.45 seconds (JVM running for 17.966)
+2019-10-03 00:23:50,159 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 00:23:50,372 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Start Archi Application ...
+2019-10-03 00:23:50,372 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] userid=1223
+2019-10-03 00:23:50,383 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] password=nkbvvj
+2019-10-03 00:29:43,056 INFO com.macrosoftas.archijee.DemoApplicationTests [main] Starting DemoApplicationTests on DESKTOP-OR1MPIC with PID 4920 (started by User in C:\MACROSOFT\formationprepaonly\FormationMETISecurite\SpringBOOTTPs\archijavajeespringboot-OK)
+2019-10-03 00:29:43,067 DEBUG com.macrosoftas.archijee.DemoApplicationTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 00:29:43,072 INFO com.macrosoftas.archijee.DemoApplicationTests [main] The following profiles are active: dev
+2019-10-03 00:29:59,067 INFO com.macrosoftas.archijee.DemoApplicationTests [main] Started DemoApplicationTests in 16.939 seconds (JVM running for 19.08)
+2019-10-03 00:29:59,075 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 00:30:00,069 INFO com.macrosoftas.archijee.ExampleRepositoryTests [main] Starting ExampleRepositoryTests on DESKTOP-OR1MPIC with PID 4920 (started by User in C:\MACROSOFT\formationprepaonly\FormationMETISecurite\SpringBOOTTPs\archijavajeespringboot-OK)
+2019-10-03 00:30:00,088 DEBUG com.macrosoftas.archijee.ExampleRepositoryTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 00:30:00,095 INFO com.macrosoftas.archijee.ExampleRepositoryTests [main] The following profiles are active: dev
+2019-10-03 00:30:01,461 INFO com.macrosoftas.archijee.ExampleRepositoryTests [main] Started ExampleRepositoryTests in 1.544 seconds (JVM running for 21.474)
+2019-10-03 00:30:01,465 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 00:30:02,099 INFO com.macrosoftas.archijee.MyControllerTests [main] Starting MyControllerTests on DESKTOP-OR1MPIC with PID 4920 (started by User in C:\MACROSOFT\formationprepaonly\FormationMETISecurite\SpringBOOTTPs\archijavajeespringboot-OK)
+2019-10-03 00:30:02,100 DEBUG com.macrosoftas.archijee.MyControllerTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 00:30:02,105 INFO com.macrosoftas.archijee.MyControllerTests [main] The following profiles are active: dev
+2019-10-03 00:30:06,540 INFO com.macrosoftas.archijee.MyControllerTests [main] Started MyControllerTests in 4.542 seconds (JVM running for 26.553)
+2019-10-03 00:30:06,549 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 00:30:28,235 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Starting ArchiJEEApplication on DESKTOP-OR1MPIC with PID 8352 (C:\MACROSOFT\formationprepaonly\FormationMETISecurite\SpringBOOTTPs\archijavajeespringboot-OK\target\classes started by User in C:\MACROSOFT\formationprepaonly\FormationMETISecurite\SpringBOOTTPs\archijavajeespringboot-OK)
+2019-10-03 00:30:28,253 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 00:30:28,258 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] The following profiles are active: dev
+2019-10-03 00:30:44,077 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Started ArchiJEEApplication in 16.723 seconds (JVM running for 18.203)
+2019-10-03 00:30:44,086 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 00:30:44,287 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Start Archi Application ...
+2019-10-03 00:30:44,287 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] userid=1223
+2019-10-03 00:30:44,297 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] password=nkbvvj
+2019-10-03 12:16:34,554 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Starting ArchiJEEApplication on MFMOFORM01 with PID 7580 (C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK\target\classes started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:16:34,594 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:16:34,613 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] The following profiles are active: dev
+2019-10-03 12:17:11,380 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Started ArchiJEEApplication in 39.879 seconds (JVM running for 45.877)
+2019-10-03 12:17:11,385 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:17:11,769 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Start Archi Application ...
+2019-10-03 12:28:39,505 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Starting ArchiJEEApplication on MFMOFORM01 with PID 7580 (C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK\target\classes started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:28:39,507 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:28:39,508 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] The following profiles are active: dev
+2019-10-03 12:28:43,364 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Started ArchiJEEApplication in 4.475 seconds (JVM running for 737.815)
+2019-10-03 12:28:43,369 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:28:43,399 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Start Archi Application ...
+2019-10-03 12:29:30,140 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Starting ArchiJEEApplication on MFMOFORM01 with PID 7580 (C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK\target\classes started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:29:30,143 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:29:30,144 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] The following profiles are active: dev
+2019-10-03 12:29:35,344 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Started ArchiJEEApplication in 5.721 seconds (JVM running for 789.792)
+2019-10-03 12:29:35,348 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:29:35,424 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Start Archi Application ...
+2019-10-03 12:30:56,141 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Starting ArchiJEEApplication on MFMOFORM01 with PID 7580 (C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK\target\classes started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:30:56,148 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:30:56,153 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] The following profiles are active: dev
+2019-10-03 12:30:59,270 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Started ArchiJEEApplication in 3.803 seconds (JVM running for 873.712)
+2019-10-03 12:30:59,283 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:30:59,301 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Start Archi Application ...
+2019-10-03 12:31:54,114 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Starting ArchiJEEApplication on MFMOFORM01 with PID 7580 (C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK\target\classes started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:31:54,115 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:31:54,116 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] The following profiles are active: dev
+2019-10-03 12:31:58,230 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Started ArchiJEEApplication in 4.23 seconds (JVM running for 932.669)
+2019-10-03 12:31:58,233 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:31:58,268 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Start Archi Application ...
+2019-10-03 12:32:31,258 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Starting ArchiJEEApplication on MFMOFORM01 with PID 7580 (C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK\target\classes started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:32:31,260 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:32:31,260 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] The following profiles are active: dev
+2019-10-03 12:32:36,121 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Started ArchiJEEApplication in 5.045 seconds (JVM running for 970.558)
+2019-10-03 12:32:36,143 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:32:36,164 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Start Archi Application ...
+2019-10-03 12:32:51,584 INFO com.macrosoftas.archijee.ArchiJEEApplicationTests [main] Starting ArchiJEEApplicationTests on MFMOFORM01 with PID 6604 (started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:32:51,632 DEBUG com.macrosoftas.archijee.ArchiJEEApplicationTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:32:51,635 INFO com.macrosoftas.archijee.ArchiJEEApplicationTests [main] The following profiles are active: dev
+2019-10-03 12:33:17,897 INFO com.macrosoftas.archijee.ArchiJEEApplicationTests [main] Started ArchiJEEApplicationTests in 27.829 seconds (JVM running for 34.644)
+2019-10-03 12:33:17,906 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:33:20,547 INFO com.macrosoftas.archijee.DemoApplicationTests [main] Starting DemoApplicationTests on MFMOFORM01 with PID 6604 (started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:33:20,548 DEBUG com.macrosoftas.archijee.DemoApplicationTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:33:20,551 INFO com.macrosoftas.archijee.DemoApplicationTests [main] The following profiles are active: dev
+2019-10-03 12:33:31,477 INFO com.macrosoftas.archijee.DemoApplicationTests [main] Started DemoApplicationTests in 11.068 seconds (JVM running for 48.222)
+2019-10-03 12:33:31,487 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:33:32,457 INFO com.macrosoftas.archijee.MyControllerTests [main] Starting MyControllerTests on MFMOFORM01 with PID 6604 (started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:33:32,459 DEBUG com.macrosoftas.archijee.MyControllerTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:33:32,462 INFO com.macrosoftas.archijee.MyControllerTests [main] The following profiles are active: dev
+2019-10-03 12:33:39,724 INFO com.macrosoftas.archijee.MyControllerTests [main] Started MyControllerTests in 7.395 seconds (JVM running for 56.469)
+2019-10-03 12:33:39,735 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:35:59,254 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Starting ArchiJEEApplication on MFMOFORM01 with PID 7580 (C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK\target\classes started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:35:59,256 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:35:59,256 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] The following profiles are active: dev
+2019-10-03 12:36:06,929 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Started ArchiJEEApplication in 8.288 seconds (JVM running for 1181.352)
+2019-10-03 12:36:06,933 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:36:07,708 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Start Archi Application ...
+2019-10-03 12:36:18,831 INFO com.macrosoftas.archijee.ArchiJEEApplicationTests [main] Starting ArchiJEEApplicationTests on MFMOFORM01 with PID 6356 (started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:36:18,840 DEBUG com.macrosoftas.archijee.ArchiJEEApplicationTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:36:18,844 INFO com.macrosoftas.archijee.ArchiJEEApplicationTests [main] The following profiles are active: dev
+2019-10-03 12:36:30,115 INFO com.macrosoftas.archijee.ArchiJEEApplicationTests [main] Started ArchiJEEApplicationTests in 13.957 seconds (JVM running for 18.698)
+2019-10-03 12:36:30,126 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:36:32,065 INFO com.macrosoftas.archijee.DemoApplicationTests [main] Starting DemoApplicationTests on MFMOFORM01 with PID 6356 (started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:36:32,067 DEBUG com.macrosoftas.archijee.DemoApplicationTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:36:32,071 INFO com.macrosoftas.archijee.DemoApplicationTests [main] The following profiles are active: dev
+2019-10-03 12:36:42,113 INFO com.macrosoftas.archijee.DemoApplicationTests [main] Started DemoApplicationTests in 10.323 seconds (JVM running for 30.695)
+2019-10-03 12:36:42,119 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:36:44,146 INFO com.macrosoftas.archijee.MyControllerTests [main] Starting MyControllerTests on MFMOFORM01 with PID 6356 (started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:36:44,146 DEBUG com.macrosoftas.archijee.MyControllerTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:36:44,146 INFO com.macrosoftas.archijee.MyControllerTests [main] The following profiles are active: dev
+2019-10-03 12:36:52,440 INFO com.macrosoftas.archijee.MyControllerTests [main] Started MyControllerTests in 9.038 seconds (JVM running for 41.022)
+2019-10-03 12:36:52,449 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:37:15,859 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Starting ArchiJEEApplication on MFMOFORM01 with PID 7580 (C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK\target\classes started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:37:15,861 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:37:15,861 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] The following profiles are active: dev
+2019-10-03 12:37:29,275 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Started ArchiJEEApplication in 13.781 seconds (JVM running for 1263.692)
+2019-10-03 12:37:29,279 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:37:29,371 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Start Archi Application ...
+2019-10-03 12:37:39,504 INFO com.macrosoftas.archijee.ArchiJEEApplicationTests [main] Starting ArchiJEEApplicationTests on MFMOFORM01 with PID 7032 (started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:37:39,539 DEBUG com.macrosoftas.archijee.ArchiJEEApplicationTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:37:39,542 INFO com.macrosoftas.archijee.ArchiJEEApplicationTests [main] The following profiles are active: dev
+2019-10-03 12:37:50,885 INFO com.macrosoftas.archijee.ArchiJEEApplicationTests [main] Started ArchiJEEApplicationTests in 13.222 seconds (JVM running for 17.737)
+2019-10-03 12:37:50,891 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:37:52,815 INFO com.macrosoftas.archijee.DemoApplicationTests [main] Starting DemoApplicationTests on MFMOFORM01 with PID 7032 (started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:37:52,817 DEBUG com.macrosoftas.archijee.DemoApplicationTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:37:52,877 INFO com.macrosoftas.archijee.DemoApplicationTests [main] The following profiles are active: dev
+2019-10-03 12:38:02,866 INFO com.macrosoftas.archijee.DemoApplicationTests [main] Started DemoApplicationTests in 10.218 seconds (JVM running for 29.717)
+2019-10-03 12:38:02,877 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 12:38:04,361 INFO com.macrosoftas.archijee.MyControllerTests [main] Starting MyControllerTests on MFMOFORM01 with PID 7032 (started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 12:38:04,362 DEBUG com.macrosoftas.archijee.MyControllerTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 12:38:04,362 INFO com.macrosoftas.archijee.MyControllerTests [main] The following profiles are active: dev
+2019-10-03 12:38:11,175 INFO com.macrosoftas.archijee.MyControllerTests [main] Started MyControllerTests in 7.6 seconds (JVM running for 38.025)
+2019-10-03 12:38:11,184 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 13:53:56,680 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Starting ArchiJEEApplication on MFMOFORM01 with PID 1168 (C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK\target\classes started by master in C:\Users\master\Documents\formation\TP\archijavajeespringboot-OK)
+2019-10-03 13:53:56,688 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-03 13:53:56,732 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] The following profiles are active: dev
+2019-10-03 13:54:36,341 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Started ArchiJEEApplication in 46.191 seconds (JVM running for 53.938)
+2019-10-03 13:54:36,345 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-03 13:54:37,249 INFO com.macrosoftas.archijee.ArchiJEEApplication [restartedMain] Start Archi Application ...
