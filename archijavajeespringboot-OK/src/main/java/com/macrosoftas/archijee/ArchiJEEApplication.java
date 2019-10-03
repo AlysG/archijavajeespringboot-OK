@@ -18,10 +18,11 @@ import org.slf4j.LoggerFactory;
 import java.util.Arrays;
 import java.util.List;
 
-
 @SpringBootApplication
 public class ArchiJEEApplication implements CommandLineRunner{
 	
+//test
+
 	private static final Logger logger = LoggerFactory.getLogger(ArchiJEEApplication.class);
 	
 	@Autowired
